@@ -1,0 +1,6 @@
+alias ls='eza'
+alias ll='eza -lAhgF --icons=auto --extended'
+alias l='eza -lha'
+alias la='eza -la'
+alias lg='eza --long --header --git --git-ignore --group'
+alias lt='eza --long --header --group --sort=modified'
